@@ -3,7 +3,7 @@
 }
 
 header a:link, a:visited{
-  color: white;
+  color: black;
   text-decoration: none;
   cursor: pointer;
 }
